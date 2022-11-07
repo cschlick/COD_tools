@@ -5,8 +5,9 @@ A set of scripts to filter the [COD](http://www.crystallography.net/cod/) databa
 First install [phenix fragments](https://github.com/cschlick/phenix_fragments)
 Then, install additional dependencies into the same environment
 ```console
-conda install -c conda-forge cctbx-base rdkit networkx
+conda install -c conda-forge mdanalysis
 ```
+MDAnalysis/RDkit are used to infer bond orders
 
 ## Usage
 
