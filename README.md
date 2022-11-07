@@ -5,7 +5,7 @@ A set of scripts to filter the [COD](http://www.crystallography.net/cod/) databa
 ## Installation
 Install additional dependencies into the same environment
 ```console
-conda install -c conda-forge mdanalysis
+conda install -c conda-forge tqdm rdkit networkx cctbx-base mdanalysis
 ```
 
 ## Usage
